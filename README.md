@@ -7,3 +7,6 @@ You can try it out using the following command.
 ```docker compose up -d```
 
 And open http://localhost:3000 in your browser.
+
+
+This project uses MongoDB as the database store

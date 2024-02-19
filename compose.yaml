@@ -6,6 +6,7 @@
 # The service “todo-app” is built from the Dockerfile in the /app directory,
 # and the service “todo-database” uses the official MongoDB image 
 # from Docker Hub - https://hub.docker.com/_/mongo. 
+# You have access to this project if you follow the tutotrial after installing docker desktop
 # You can add other services your application may depend on here.
 
 services:
