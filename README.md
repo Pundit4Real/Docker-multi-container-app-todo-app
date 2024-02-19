@@ -26,3 +26,5 @@ Run the following command to run your project with compose watch.
 
 Now change the text in line 18 of the app **app/views/todos.ejs** to see your changes in real time.
 
+Have a look of the original copy of the project on the docker github account
+```https://github.com/docker/multi-container-app⁠```
