@@ -2,8 +2,8 @@
 
 This is a repo for new users getting started with Docker.
 
-This is a simple todo application built using ExpressJS and Node. 
-All todos are saved in a MongoDB database.
+This is a simple todo application built using **ExpressJS and Node.**
+All todos are saved in a **MongoDB database.**
 
 If you view the code of the sample application, you will notice that it has a compose.yaml file. 
 This file tells Docker how to run your application. Open the compose.yaml file in a text editor to explore the instructions.
@@ -24,6 +24,5 @@ Run the following command to run your project with compose watch.
 
 ```docker compose watch```
 
-Now change the text in line 18 of the app app/views/todos.ejs to see your changes in real time.
+Now change the text in line 18 of the app **app/views/todos.ejs** to see your changes in real time.
 
-This project uses MongoDB as the database store
